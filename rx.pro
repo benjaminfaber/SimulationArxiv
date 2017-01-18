@@ -1,8 +1,8 @@
 .r write_entry
 
 ;---------------------------------------------
-  rundir = '/home/bfaber/workspace/GENE-Data/HSX_SIMS/prod_run2/'
-  arxdir = '/home/bfaber/'
+  rundir = '/global/cscratch1/sd/bfaber/p2/scanfiles0013/'
+  arxdir = '/global/homes/b/bfaber/SimulationArxiv/'
   verb = 0 ; set to 1 for prompting run string
 ;---------------------------------------------
 
